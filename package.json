@@ -25,6 +25,7 @@
     "lodash": "^4.17.15",
     "mongoose": "^5.6.9",
     "node": "^12.8.1",
+    "node.js": "0.0.0",
     "path": "^0.12.7",
     "react": "^16.9.0",
     "react-bootstrap": "^0.32.4",
@@ -35,11 +36,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alecfharris/nyt-google-books-search.git"
+    "url": "git+https://github.com/surielsa/Search-a-Book.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/alecfharris/nyt-google-books-search/issues"
+    "url": "https://github.com/surielsa/Search-a-Book/issues"
   },
-  "homepage": "https://github.com/alecfharris/nyt-google-books-search#readme"
+  "homepage": "https://github.com/surielsa/Search-a-Book#readme"
 }
